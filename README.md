@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ara-apps-dev/rn-ticket-card/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/ara-apps-dev/rn-ticket-card/refs/heads/main/assets/banner.png)
 
 <p>
   <!-- left -->
@@ -40,7 +40,7 @@ A customizable **SVG ticket-shaped card component** for React Native, with suppo
 
 Here’s a sample of what rn-ticket-card looks like:
 
-<p align="center"> <img src="https://raw.githubusercontent.com/ara-apps-dev/rn-ticket-card/assets/ticket-example.png" alt="Ticket Card Example" width="730" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/ara-apps-dev/rn-ticket-card/refs/heads/main/assets/ticket-example.png" alt="Ticket Card Example" width="370" /> </p>
 ✈️ Example of a flight boarding pass style using rn-ticket-card.
 
 ---
