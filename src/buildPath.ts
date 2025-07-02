@@ -52,7 +52,7 @@ export function buildPath(
   if (rightNotches.length) {
     rightNotches.forEach((n) => {
       const y = n.offset;
-      const isIn = n.placement.endsWith("In");
+      const isIn = n.placement.endsWith("Out");
       const sweep = isIn ? 1 : 0;
       const largeArc = isIn ? 1 : 0;
       p += `L${width},${y - n.size} `;
@@ -71,7 +71,7 @@ export function buildPath(
   if (bottomNotches.length) {
     bottomNotches.forEach((n) => {
       const x = n.offset;
-      const isIn = n.placement.endsWith("In");
+      const isIn = n.placement.endsWith("Out");
       const sweep = isIn ? 1 : 0;
       const largeArc = isIn ? 1 : 0;
       p += `L${x + n.size},${height} `;
