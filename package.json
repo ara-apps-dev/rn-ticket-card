@@ -1,6 +1,6 @@
 {
   "name": "rn-ticket-card",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A customizable React Native component to create SVG-based ticket-shaped cards with support for rounded corners and notches (inward or outward) on all four sides. Perfect for event tickets, vouchers, or boarding passes.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
